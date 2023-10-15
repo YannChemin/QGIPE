@@ -4,7 +4,7 @@ Your plugin NdVi was created in:
     /home/yann/dev/QGIS_NDVI/ndvi
 
 Your QGIS plugin directory is located at:
-    /home/yann/.local/share/QGIS/QGIS3/profiles/default/python/plugins
+    /home/user/.local/share/QGIS/QGIS3/profiles/default/python/plugins
 
 What's Next:
 
