@@ -12,8 +12,8 @@ email=dr.yann.chemin@gmail.com
 
 about=Process two bands of an image into NDVI
 
-tracker=https://github.com/YannChemin/QGIS_NDVI
-repository=https://github.com/YannChemin/QGIS_NDVI
+tracker=https://github.com/YannChemin/QGIPE_NDVI
+repository=https://github.com/YannChemin/QGIPE_NDVI
 # End of mandatory metadata
 
 # Recommended items:
@@ -40,7 +40,7 @@ deprecated=False
 # plugin_dependencies=
 
 Category of the plugin: Raster, Vector, Database or Web
-# category=
+# category=Raster
 
 # If the plugin can run on QGIS Server.
 server=False
